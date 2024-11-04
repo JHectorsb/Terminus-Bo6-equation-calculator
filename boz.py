@@ -1,7 +1,7 @@
 
-x = input("Digite o valor de x: ")
-y = input("Digite o valor de y: ")
-z = input("Digite o valor de z: ")
+x = input("valor de x: ")
+y = input("valor de y: ")
+z = input("valor de z: ")
 
 valorx =  int(x)
 valory =  int(y)
